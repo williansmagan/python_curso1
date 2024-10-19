@@ -1,4 +1,4 @@
-# Passo a passo do projeto
+# Passo a passo do projeto completo
 # Passo 1: Entrar no sistema da empresa 
     # https://dlp.hashtagtreinamentos.com/python/intensivao/login
 
